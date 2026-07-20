@@ -4,6 +4,8 @@
 
 Tools: Microsoft Excel (Power Query, Pivot Tables, Formulas, Dashboard Design)
 
+<img width="839" height="393" alt="Screenshot 2026-07-13 150151" src="https://github.com/user-attachments/assets/a72f04a7-8bed-4562-993a-0b2381532fd0" />
+
 ## Overview
 
 This project analyzes a full year of Adidas' US retail sales transactions to uncover performance patterns across regions, products, sales channels, and time periods. Starting from raw retailer-level transaction data, I cleaned and structured the data, built a proper date dimension, summarized it through pivot tables, and presented it as an interactive one-page executive dashboard.
