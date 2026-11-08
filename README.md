@@ -1,4 +1,4 @@
-Adidas US Sales Analysis (2020-2021) — Excel & Power Pivot
+# Adidas US Sales Analysis (2020-2021) — Excel & Power Pivot
 
 **Data Cleaning, Modeling, Dashboard Design & Business Insights**
 
