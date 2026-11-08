@@ -8,6 +8,7 @@ Tools: Microsoft Excel (Power Query, Pivot Tables, Formulas, Dashboard Design)
 
 ## Overview
 
+
 This project analyzes a full year of Adidas' US retail sales transactions to uncover performance patterns across regions, products, sales channels, and time periods. Starting from raw retailer-level transaction data, I cleaned and structured the data, built a proper date dimension, summarized it through pivot tables, and presented it as an interactive one-page executive dashboard.
 
 **Headline results:** $120M in total revenue from 2.5M units sold, 42% average operating margin, $47.2M in operating profit — a 9.4% revenue increase and 9.5% profit increase vs. the prior period.
